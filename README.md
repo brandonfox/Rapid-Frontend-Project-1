@@ -22,3 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Project 1 'Vue Todo' for rapid frontend class
+Rapid frontend project 1 Vue todo
